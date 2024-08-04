@@ -61,7 +61,7 @@ The project requires the following Python libraries:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/sales-orders-data-analysis.git
+    git clone https://github.com/shreyash4Z/Sales-Order-Analysis
     cd sales-orders-data-analysis
     ```
 
